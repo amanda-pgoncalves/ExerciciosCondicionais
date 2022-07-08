@@ -1,0 +1,15 @@
+C:\Users\HD\AtividadeOne\bin\Debug\net6.0\AtividadeOne.exe
+C:\Users\HD\AtividadeOne\bin\Debug\net6.0\AtividadeOne.deps.json
+C:\Users\HD\AtividadeOne\bin\Debug\net6.0\AtividadeOne.runtimeconfig.json
+C:\Users\HD\AtividadeOne\bin\Debug\net6.0\AtividadeOne.dll
+C:\Users\HD\AtividadeOne\bin\Debug\net6.0\AtividadeOne.pdb
+C:\Users\HD\AtividadeOne\obj\Debug\net6.0\AtividadeOne.csproj.AssemblyReference.cache
+C:\Users\HD\AtividadeOne\obj\Debug\net6.0\AtividadeOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HD\AtividadeOne\obj\Debug\net6.0\AtividadeOne.AssemblyInfoInputs.cache
+C:\Users\HD\AtividadeOne\obj\Debug\net6.0\AtividadeOne.AssemblyInfo.cs
+C:\Users\HD\AtividadeOne\obj\Debug\net6.0\AtividadeOne.csproj.CoreCompileInputs.cache
+C:\Users\HD\AtividadeOne\obj\Debug\net6.0\AtividadeOne.dll
+C:\Users\HD\AtividadeOne\obj\Debug\net6.0\refint\AtividadeOne.dll
+C:\Users\HD\AtividadeOne\obj\Debug\net6.0\AtividadeOne.pdb
+C:\Users\HD\AtividadeOne\obj\Debug\net6.0\AtividadeOne.genruntimeconfig.cache
+C:\Users\HD\AtividadeOne\obj\Debug\net6.0\ref\AtividadeOne.dll

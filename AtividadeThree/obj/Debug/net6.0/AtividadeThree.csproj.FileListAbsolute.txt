@@ -1,0 +1,15 @@
+C:\Users\HD\AtividadeThree\bin\Debug\net6.0\AtividadeThree.exe
+C:\Users\HD\AtividadeThree\bin\Debug\net6.0\AtividadeThree.deps.json
+C:\Users\HD\AtividadeThree\bin\Debug\net6.0\AtividadeThree.runtimeconfig.json
+C:\Users\HD\AtividadeThree\bin\Debug\net6.0\AtividadeThree.dll
+C:\Users\HD\AtividadeThree\bin\Debug\net6.0\AtividadeThree.pdb
+C:\Users\HD\AtividadeThree\obj\Debug\net6.0\AtividadeThree.csproj.AssemblyReference.cache
+C:\Users\HD\AtividadeThree\obj\Debug\net6.0\AtividadeThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HD\AtividadeThree\obj\Debug\net6.0\AtividadeThree.AssemblyInfoInputs.cache
+C:\Users\HD\AtividadeThree\obj\Debug\net6.0\AtividadeThree.AssemblyInfo.cs
+C:\Users\HD\AtividadeThree\obj\Debug\net6.0\AtividadeThree.csproj.CoreCompileInputs.cache
+C:\Users\HD\AtividadeThree\obj\Debug\net6.0\AtividadeThree.dll
+C:\Users\HD\AtividadeThree\obj\Debug\net6.0\refint\AtividadeThree.dll
+C:\Users\HD\AtividadeThree\obj\Debug\net6.0\AtividadeThree.pdb
+C:\Users\HD\AtividadeThree\obj\Debug\net6.0\AtividadeThree.genruntimeconfig.cache
+C:\Users\HD\AtividadeThree\obj\Debug\net6.0\ref\AtividadeThree.dll

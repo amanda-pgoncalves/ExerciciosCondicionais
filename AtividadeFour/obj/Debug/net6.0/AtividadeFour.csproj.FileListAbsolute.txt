@@ -1,0 +1,15 @@
+C:\Users\HD\AtividadeFour\bin\Debug\net6.0\AtividadeFour.exe
+C:\Users\HD\AtividadeFour\bin\Debug\net6.0\AtividadeFour.deps.json
+C:\Users\HD\AtividadeFour\bin\Debug\net6.0\AtividadeFour.runtimeconfig.json
+C:\Users\HD\AtividadeFour\bin\Debug\net6.0\AtividadeFour.dll
+C:\Users\HD\AtividadeFour\bin\Debug\net6.0\AtividadeFour.pdb
+C:\Users\HD\AtividadeFour\obj\Debug\net6.0\AtividadeFour.csproj.AssemblyReference.cache
+C:\Users\HD\AtividadeFour\obj\Debug\net6.0\AtividadeFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HD\AtividadeFour\obj\Debug\net6.0\AtividadeFour.AssemblyInfoInputs.cache
+C:\Users\HD\AtividadeFour\obj\Debug\net6.0\AtividadeFour.AssemblyInfo.cs
+C:\Users\HD\AtividadeFour\obj\Debug\net6.0\AtividadeFour.csproj.CoreCompileInputs.cache
+C:\Users\HD\AtividadeFour\obj\Debug\net6.0\AtividadeFour.dll
+C:\Users\HD\AtividadeFour\obj\Debug\net6.0\refint\AtividadeFour.dll
+C:\Users\HD\AtividadeFour\obj\Debug\net6.0\AtividadeFour.pdb
+C:\Users\HD\AtividadeFour\obj\Debug\net6.0\AtividadeFour.genruntimeconfig.cache
+C:\Users\HD\AtividadeFour\obj\Debug\net6.0\ref\AtividadeFour.dll

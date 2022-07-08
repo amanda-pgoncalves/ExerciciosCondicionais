@@ -1,0 +1,15 @@
+C:\Users\HD\AtividadeTwo\bin\Debug\net6.0\AtividadeTwo.exe
+C:\Users\HD\AtividadeTwo\bin\Debug\net6.0\AtividadeTwo.deps.json
+C:\Users\HD\AtividadeTwo\bin\Debug\net6.0\AtividadeTwo.runtimeconfig.json
+C:\Users\HD\AtividadeTwo\bin\Debug\net6.0\AtividadeTwo.dll
+C:\Users\HD\AtividadeTwo\bin\Debug\net6.0\AtividadeTwo.pdb
+C:\Users\HD\AtividadeTwo\obj\Debug\net6.0\AtividadeTwo.csproj.AssemblyReference.cache
+C:\Users\HD\AtividadeTwo\obj\Debug\net6.0\AtividadeTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HD\AtividadeTwo\obj\Debug\net6.0\AtividadeTwo.AssemblyInfoInputs.cache
+C:\Users\HD\AtividadeTwo\obj\Debug\net6.0\AtividadeTwo.AssemblyInfo.cs
+C:\Users\HD\AtividadeTwo\obj\Debug\net6.0\AtividadeTwo.csproj.CoreCompileInputs.cache
+C:\Users\HD\AtividadeTwo\obj\Debug\net6.0\AtividadeTwo.dll
+C:\Users\HD\AtividadeTwo\obj\Debug\net6.0\refint\AtividadeTwo.dll
+C:\Users\HD\AtividadeTwo\obj\Debug\net6.0\AtividadeTwo.pdb
+C:\Users\HD\AtividadeTwo\obj\Debug\net6.0\AtividadeTwo.genruntimeconfig.cache
+C:\Users\HD\AtividadeTwo\obj\Debug\net6.0\ref\AtividadeTwo.dll
